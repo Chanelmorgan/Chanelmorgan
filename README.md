@@ -12,7 +12,12 @@ Welcome to my portfolio repository! I am Chanel Morgan, a final-year computer sc
 
 ## About Me
 
-I am passionate about software development, machine learning, and data science. My goal is to leverage technology to solve real-world problems and contribute to innovative projects. Throughout my studies, I have engaged in various projects that have enhanced my coding, problem-solving, and teamwork skills. 
+I am passionate about software development, machine learning, and data science. My goal is to leverage technology to solve real-world problems and contribute to innovative projects. 
+
+During my placement year at Airbus Defence and Space, I worked as an Intern Software Developer where I gained hands-on experience in agile development and Java. I contributed to the continuous integration and development of many projects, which helped me enhance my coding, problem-solving, and teamwork skills.
+
+Throughout my studies, I have engaged in various projects that have further strengthened my expertise and prepared me for a successful tech career.
+
 
 ## Skills
 
@@ -65,16 +70,16 @@ I am passionate about software development, machine learning, and data science. 
 
 ## Certifications
 
-- **[Agile Software Development ](link-to-certification)** - Issued by [Issuer]
-- **[Version Control Systems](link-to-certification)** - Issued by [Issuer]
-- **[Certification Name](link-to-certification)** - Issued by [Issuer]
+- **[Agile Software Development ](link-to-certification)** - Issued by Coursera
+- **[Version Control Systems](link-to-certification)** - Issued by Coursera
+- **[Project Management Fundamentals](link-to-certification)** - Issued by Coursera
 
 ## Contact
 
 Feel free to reach out to me for any queries, collaboration, or opportunities!
 
 - **Email:** chanelmorgan05@icloud.com
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
+- **LinkedIn:** [https://www.linkedin.com/in/chanelmorgan/](link-to-linkedin)
 - **Personal Website:** [your-website.com](link-to-website)
 
 ---
