@@ -47,21 +47,21 @@ Throughout my studies, I have engaged in various projects that have further stre
 
 ## Projects
 
-### 1. [Project Name](link-to-project)
+### 1. [Harmony Steps Dance Website](link-to-project)
 **Description:** A brief description of what the project is about, the problem it solves, and the technologies used.  
 **Key Features:**
 - Feature 1
 - Feature 2
 - Feature 3
 
-### 2. [Project Name](link-to-project)
+### 2. [AI Flappy Bird](link-to-project)
 **Description:** A brief description of what the project is about, the problem it solves, and the technologies used.  
 **Key Features:**
 - Feature 1
 - Feature 2
 - Feature 3
 
-### 3. [Project Name](link-to-project)
+### 3. [Touch Typing Application](link-to-project)
 **Description:** A brief description of what the project is about, the problem it solves, and the technologies used.  
 **Key Features:**
 - Feature 1
