@@ -13,11 +13,14 @@ Welcome to my portfolio repository! I am Chanel Morgan, a final-year computer sc
 ## About Me
 
 I am passionate about software development, machine learning, and data science. My goal is to leverage technology to solve real-world problems and contribute to innovative projects. 
+I am a self-driven and motivated individual who enjoys learning new information and applying that knowledge. Combining this with an exceptional amount of passion for front and back-end development I have constantly kept my knowledge fresh and up to date by frequently producing projects and attending online courses to increase my knowledge within the Software Engineering space. Which has resulted in developing a strong foundational base with HTML, CSS & JavaScript. 
+
+A strong confident communicator, with the ability to listen and take on information and well-versed analytical skills I thrive with finding answers to problems using all the resources available at my disposal, and if it isn’t I thoroughly enjoy the process of finding the answer the problem, leaving no stone unturned. I believe in lifelong learning, in terms of technical, behavioral, and life skills. I’m a persuasive communicator who is both direct and succinct and I always ensure I am clear about what I'm doing, why, and what I expect of others.
+
 
 During my placement year at Airbus Defence and Space, I worked as an Intern Software Developer where I gained hands-on experience in agile development and Java. I contributed to the continuous integration and development of many projects, which helped me enhance my coding, problem-solving, and teamwork skills.
 
 Throughout my studies, I have engaged in various projects that have further strengthened my expertise and prepared me for a successful tech career.
-
 
 ## Skills
 
