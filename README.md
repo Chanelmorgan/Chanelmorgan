@@ -81,9 +81,8 @@ Throughout my studies, I have engaged in various projects that have further stre
 
 Feel free to reach out to me for any queries, collaboration, or opportunities!
 
-- **Email:** chanelmorgan05@icloud.com
-- **LinkedIn:** [https://www.linkedin.com/in/chanelmorgan/](link-to-linkedin)
-- **Personal Website:** [https://chanelmorgan.github.io/Portfolio2DGame/](link-to-website)
----
+- **Email:** [chanelmorgan05@icloud.com](mailto:chanelmorgan05@icloud.com)
+- **LinkedIn:** [https://www.linkedin.com/in/chanelmorgan/](https://www.linkedin.com/in/chanelmorgan/)
+- **Personal Website:** [https://chanelmorgan.github.io/Portfolio2DGame/](https://chanelmorgan.github.io/Portfolio2DGame/)---
 
 Thank you for visiting my portfolio! I look forward to connecting with you.
