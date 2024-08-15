@@ -82,7 +82,11 @@ You can download my CV from the following link:
 **Key Features:**
 - Accurate calculation of planetary orbits based on physics equations
 - Visual simulation of planetary movements
-- Interactive features for adjusting parameters and observing effects## Certifications
+- Interactive features for adjusting parameters and observing effects
+
+
+
+## Certifications
 
 - **[Agile Software Development](https://drive.google.com/file/d/1U0IcdDyJw0mNphO0i1UObgKt7mINkCAB/view?usp=sharing)** - Issued by Coursera
 - **[Version Control Systems](https://drive.google.com/file/d/1tIZVqWKAAAjo641y9_4g3Ucmu7BfEmRE/view?usp=drive_link)** - Issued by Coursera
