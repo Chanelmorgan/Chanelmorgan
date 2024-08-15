@@ -48,6 +48,12 @@ Throughout my studies, I have engaged in various projects that have further stre
 - **Rasberry Pi**
 - **Jira/Confluence**
 
+- # My Resume
+
+You can download my CV from the following link:
+
+- [Download CV](https://github.com/chanelmorgan/CV/resume.pdf)
+
 ## Projects
 
 ### 1. [Harmony Steps Dance Website](link-to-project)
