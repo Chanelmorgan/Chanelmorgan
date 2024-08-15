@@ -56,28 +56,33 @@ You can download my CV from the following link:
 
 ## Projects
 
-### 1. [Harmony Steps Dance Website](link-to-project)
-**Description:** A brief description of what the project is about, the problem it solves, and the technologies used.  
+### 1. [Harmony Steps Dance Website](https://github.com/Chanelmorgan/HarmonyStepsWebsite)
+**Description:** Developed a comprehensive website for Harmony Steps Dance Studio to enhance online presence and streamline class registration. Utilized HTML, CSS, and JavaScript( ReactJS and ExpressJS) to create a user-friendly platform with seamless navigation.  
 **Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+- Interactive gallery showcasing dance performances
+- Contact form for inquiries and feedback
+-  Responsive design 
 
-### 2. [AI Flappy Bird](link-to-project)
-**Description:** A brief description of what the project is about, the problem it solves, and the technologies used.  
+### 2. [AI Flappy Bird](https://github.com/Chanelmorgan/FlappyBird/tree/AI_flappyBird)
+**Description:** Created an AI agent to play Flappy Bird using the Neuroevolution of Augmenting Topologies (NEAT) algorithm. The AI learns to navigate the game through evolutionary techniques, improving performance over multiple generations.  
 **Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+- Neural network-based training with NEAT
+- Adaptive learning through evolutionary algorithms
+- Visualization of AI’s progression and performance in the game
 
-### 3. [Touch Typing Application](link-to-project)
-**Description:** A brief description of what the project is about, the problem it solves, and the technologies used.  
+### 3. [Ellie Morgan Hair Website ](https://github.com/Chanelmorgan/EllieMorganHair)
+**Description:** Designed and developed a website for Ellie Morgan Hair using flask, a professional hairdressing service. The site features a clean, modern design and facilitates easy contact form and service information access.  
 **Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+- Online contact form 
+- Portfolio of hairstyles and client testimonials
+- Google API: interactive map
 
-## Certifications
+### 4. [Python Planet Simulation](https://github.com/Chanelmorgan/PlanetSimulation)
+**Description:** Implemented a simulation of planetary orbits using Python, applying fundamental physics equations to model the trajectories of three planets. The simulation provides a visual representation and analysis of orbital mechanics.  
+**Key Features:**
+- Accurate calculation of planetary orbits based on physics equations
+- Visual simulation of planetary movements
+- Interactive features for adjusting parameters and observing effects## Certifications
 
 - **[Agile Software Development](https://drive.google.com/file/d/1U0IcdDyJw0mNphO0i1UObgKt7mINkCAB/view?usp=sharing)** - Issued by Coursera
 - **[Version Control Systems](https://drive.google.com/file/d/1tIZVqWKAAAjo641y9_4g3Ucmu7BfEmRE/view?usp=drive_link)** - Issued by Coursera
