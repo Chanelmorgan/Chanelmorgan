@@ -83,6 +83,6 @@ Feel free to reach out to me for any queries, collaboration, or opportunities!
 
 - **Email:** [chanelmorgan05@icloud.com](mailto:chanelmorgan05@icloud.com)
 - **LinkedIn:** [https://www.linkedin.com/in/chanelmorgan/](https://www.linkedin.com/in/chanelmorgan/)
-- **Personal Website:** [https://chanelmorgan.github.io/Portfolio2DGame/](https://chanelmorgan.github.io/Portfolio2DGame/)---
-
+- **Personal Website:** [https://chanelmorgan.github.io/Portfolio2DGame/](https://chanelmorgan.github.io/Portfolio2DGame/)
+- 
 Thank you for visiting my portfolio! I look forward to connecting with you.
