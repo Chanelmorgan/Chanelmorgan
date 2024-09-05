@@ -73,7 +73,9 @@ You can download my CV from the following link:
 - Visualization of AI’s progression and performance in the game
 
 ### 3. [Ellie Morgan Hair Website ](https://github.com/Chanelmorgan/EllieMorganHair)
+
 [Website](https://elliemorganhair.co.uk)
+
 **Description:** Designed and developed a website for Ellie Morgan Hair using flask, a professional hairdressing service. The site features a clean, modern design and facilitates easy contact form and service information access.  
 **Key Features:**
 - Online contact form 
