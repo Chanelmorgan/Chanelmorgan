@@ -57,6 +57,8 @@ You can download my CV from the following link:
 ## Projects
 
 ### 1. [Harmony Steps Dance Website](https://github.com/Chanelmorgan/HarmonyStepsWebsite)
+[Website](https://harmonystepsdance.co.uk)
+
 **Description:** Developed a comprehensive website for Harmony Steps Dance Studio to enhance online presence and streamline class registration. Utilized HTML, CSS, and JavaScript( ReactJS and ExpressJS) to create a user-friendly platform with seamless navigation.  
 **Key Features:**
 - Interactive gallery showcasing dance performances
@@ -71,6 +73,7 @@ You can download my CV from the following link:
 - Visualization of AI’s progression and performance in the game
 
 ### 3. [Ellie Morgan Hair Website ](https://github.com/Chanelmorgan/EllieMorganHair)
+[Website](https://elliemorganhair.co.uk)
 **Description:** Designed and developed a website for Ellie Morgan Hair using flask, a professional hairdressing service. The site features a clean, modern design and facilitates easy contact form and service information access.  
 **Key Features:**
 - Online contact form 
