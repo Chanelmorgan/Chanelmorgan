@@ -89,6 +89,13 @@ You can download my CV from the following link:
 - Visual simulation of planetary movements
 - Interactive features for adjusting parameters and observing effects
 
+### 5. [Website](https://chanelmorgan.co.uk)
+
+**Description:** Designed and developed a personal website using ReactJs. The site features a clean, modern design and facilitates easy contact form and service information access.  
+**Key Features:**
+- Online contact form 
+- Portfolio of skills
+
 
 
 ## Certifications
