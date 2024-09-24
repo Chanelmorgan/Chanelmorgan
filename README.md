@@ -52,7 +52,7 @@ Throughout my studies, I have engaged in various projects that have further stre
 
 You can download my CV from the following link:
 
-- [Download CV](https://github.com/Chanelmorgan/CV/blob/main/Chanel%20Morgan.pdf)
+- [Download CV](https://github.com/Chanelmorgan/CV/blob/main/CV.pdf)
 
 ## Projects
 
